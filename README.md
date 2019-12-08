@@ -1,2 +1,2 @@
-# ScrapyStudy
+# Scrapy Study
 Scrapy Study
